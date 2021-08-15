@@ -1,0 +1,66 @@
+/* common styles */
+body h3,
+p {
+  font-family: "Poppins", sans-serif;
+}
+/* top banner starts here */
+.top-banner {
+  background-color: #264653;
+  width: 100%;
+  height: 100%;
+}
+.top-banner h3 {
+  font-size: 48px;
+  font-weight: 600;
+}
+.top-banner-text {
+  color: #e0e0e0;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.purchase-btn {
+  width: 168px;
+  height: 44px;
+  background: #e76f51;
+  border-radius: 6px;
+  color: white;
+}
+/* top banner ends here */
+/* container for bike starts here */
+.container,
+.client {
+  color: #e76f51;
+}
+.bike-img img {
+  width: 288px;
+  height: 243px;
+}
+#bike-1 {
+  filter: grayscale(100%);
+}
+#bike-2 {
+  filter: grayscale(100%);
+}
+/* container for bike ends here */
+/* container for client starts here */
+
+.client-img img {
+  width: 149px;
+  height: 149px;
+  border-radius: 50%;
+}
+.user-review {
+  color: #6c6c6c;
+  text-align: start;
+}
+.user-location {
+  color: #23a6f0;
+}
+/* container for client ends here */
+/* container for frequent question starts  here */
+.frequent-images img {
+  width: 381.2px;
+  height: 373.5px;
+}
+/* container for frequent question ends  here */
